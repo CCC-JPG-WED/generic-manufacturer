@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Generic Manufacturer - High Quality Home Decor Products">
+    <title>Generic Manufacturer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Welcome to Generic Manufacturer</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#products">Our Products</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+
+        <!-- About Us Section -->
+        <section id="about">
+            <h2>About Us</h2>
+            <p>At Generic, we pride ourselves on producing high-quality home decor products. Our collection features a variety of items to enhance the beauty of your home. From stylish cushions to elegant wall art, our products are designed to add warmth and charm to your living space.</p>
+        </section>
+
+        <!-- Products Section -->
+        <section id="products">
+            <h2>Our Products</h2>
+            <div class="product-list">
+                <!-- Product 1: Valentine's Day Gnome (Pink) -->
+                <div class="product">
+                    <h3>Valentines Day Gnome (Pink)</h3>
+                    <img src="<a href="https://sm.ms/image/nENzS46LAFyPixc" target="_blank"><img src="https://s2.loli.net/2025/01/24/nENzS46LAFyPixc.jpg" ></a>" alt="Valentines Day Gnome (Pink)">
+                    <p>Handmade Swedish Tomte Gnomes Plush Ornaments. Perfect for Valentine's Day and home decorations. The pink-colored gnome adds a festive touch to your tiered tray or tabletop. Size: One Size.</p>
+                </div>
+
+                <!-- Product 2: Valentine's Day Gnome (Red) -->
+                <div class="product">
+                    <h3>Valentines Day Gnome (Red)</h3>
+                    <img src="<a href="https://sm.ms/image/SG4xwZ6Kg9CLmfh" target="_blank"><img src="https://s2.loli.net/2025/01/24/SG4xwZ6Kg9CLmfh.jpg" ></a>" alt="Valentines Day Gnome (Red)">
+                    <p>Handmade Swedish Tomte Gnomes Plush Ornaments. Ideal for Valentine's Day decorations. This red gnome is a great addition to your tiered tray or tabletop. Size: One Size.</p>
+                </div>
+
+                <!-- Product 3: Valentine's Day Gnome (White) -->
+                <div class="product">
+                    <h3>Valentines Day Gnome (White)</h3>
+                    <img src="<a href="https://sm.ms/image/SG4xwZ6Kg9CLmfh" target="_blank"><img src="https://s2.loli.net/2025/01/24/SG4xwZ6Kg9CLmfh.jpg" ></a>" alt="Valentines Day Gnome (White)">
+                    <p>Handmade Swedish Tomte Gnomes Plush Ornaments. Featuring a white-colored design, this charming gnome is perfect for adding a festive vibe to your home during Valentine's Day. Size: One Size.</p>
+                </div>
+
+                <!-- Product 4: Valentine's Day Gnome (Rosy Red) -->
+                <div class="product">
+                    <h3>Valentines Day Gnome (Rosy Red)</h3>
+                    <img src="<a href="https://sm.ms/image/7RruA5B1k6zXPa9" target="_blank"><img src="https://s2.loli.net/2025/01/24/7RruA5B1k6zXPa9.jpg" ></a>" alt="Valentines Day Gnome (Rosy Red)">
+                    <p>Swedish Handmade Resin Gnome. This rosy red Valentine's Day gnome makes a wonderful gift for loved ones. Perfect for tiered tray displays, it's a delightful addition to your home decor. Size: One Size.</p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email us at: <a href="mailto:support@generic.com">support@generic.com</a></p>
+            <p>Phone: +1 234 567 890</p>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Generic Manufacturer. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
